@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Program\\",
+  "WorkspaceRootPath": "F:\\\uCF54\uB529\\LanguageGame\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6362666-6119-4023-850E-891969A07864}|Program.vcxproj|C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C6362666-6119-4023-850E-891969A07864}|Program.vcxproj|F:\\\uCF54\uB529\\LanguageGame\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C6362666-6119-4023-850E-891969A07864}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B31CD8E-1C88-4998-AFA4-4DBE3911E3B8}|..\\Class2th (Double Buffering)\\Class2th (Double Buffering).vcxproj|C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Class2th (Double Buffering)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Class2th (Double Buffering)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49975374-4D0A-4EFF-8EE8-793F60C45FDE}|..\\Class1th (GetAsyncKeyState)\\Class1th (GetAsyncKeyState).vcxproj|C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Class1th (GetAsyncKeyState)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Class1th (GetAsyncKeyState)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,23 +27,18 @@
               "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Class2th (Double Buffering)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class2th (Double Buffering)\\Source.c",
               "ToolTip": "C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Class2th (Double Buffering)\\Source.c",
-              "RelativeToolTip": "..\\Class2th (Double Buffering)\\Source.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-13T11:04:15.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T11:04:15.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Class1th (GetAsyncKeyState)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class1th (GetAsyncKeyState)\\Source.c",
               "ToolTip": "C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Class1th (GetAsyncKeyState)\\Source.c",
-              "RelativeToolTip": "..\\Class1th (GetAsyncKeyState)\\Source.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-11T12:14:42.353Z"
             },
@@ -51,11 +46,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Program\\Source.c",
+              "DocumentMoniker": "F:\\\uCF54\uB529\\LanguageGame\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\kingm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LanguageGame\\Program\\Source.c*",
-              "RelativeToolTip": "Source.c*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwC8AAAAMAAAAAAAAAA==",
+              "ToolTip": "F:\\\uCF54\uB529\\LanguageGame\\Program\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-10T11:06:15.054Z",
               "EditorCaption": ""
