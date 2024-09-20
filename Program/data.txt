@@ -1,0 +1,3 @@
+Character InformationHealth : 100
+Attack : 25
+Defense : 5
