@@ -49,8 +49,7 @@ int main()
 
 #pragma region 파일 읽기
 
-	//Load("Bird.txt");
-
+	Load("bird.txt");
 
 #pragma endregion
 

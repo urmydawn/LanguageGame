@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6362666-6119-4023-850E-891969A07864}|Program.vcxproj|F:\\\uCF54\uB529\\LanguageGame\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C6362666-6119-4023-850E-891969A07864}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE8E837-68F0-405C-A0C3-19A02844A8D3}|..\\Class3th (Maze Game)\\Class3th (Maze Game).vcxproj|F:\\\uCF54\uB529\\LanguageGame\\Class3th (Maze Game)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859CFA54-3644-49AA-B0B7-B92CCA4570E7}|..\\Class4th(input\u0026output)\\Class4th(input\u0026output).vcxproj|F:\\\uCF54\uB529\\LanguageGame\\Class4th(input\u0026output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +20,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "F:\\\uCF54\uB529\\LanguageGame\\Class3th (Maze Game)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class3th (Maze Game)\\Source.c",
+              "ToolTip": "F:\\\uCF54\uB529\\LanguageGame\\Class3th (Maze Game)\\Source.c",
+              "RelativeToolTip": "..\\Class3th (Maze Game)\\Source.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-23T11:55:29.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "F:\\\uCF54\uB529\\LanguageGame\\Class4th(input\u0026output)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class4th(input\u0026output)\\Source.c",
+              "ToolTip": "F:\\\uCF54\uB529\\LanguageGame\\Class4th(input\u0026output)\\Source.c",
+              "RelativeToolTip": "..\\Class4th(input\u0026output)\\Source.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:39:47.544Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +56,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "F:\\\uCF54\uB529\\LanguageGame\\Program\\Source.c*",
               "RelativeToolTip": "Source.c*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-10T11:06:15.054Z",
               "EditorCaption": ""
