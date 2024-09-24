@@ -1,4 +1,2 @@
 ﻿  Source.c
-F:\코딩\LanguageGame\Program\Source.c(44,5): warning C4013: 'Position'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-F:\코딩\LanguageGame\Program\Source.c(66,6): error C2371: 'Position': 재정의. 기본 형식이 다릅니다.
-F:\코딩\LanguageGame\Program\Source.c(103,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Program.vcxproj -> F:\코딩\LanguageGame\Program\x64\Debug\Program.exe
