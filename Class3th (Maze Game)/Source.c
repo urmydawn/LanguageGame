@@ -17,7 +17,7 @@ typedef struct Character
 	const char* shape;
 }Character;
 
-char maze[WIDTH][HEIGHT] =
+char maze[WIDTH][HEIGHT] = 
 {
 	{'1','1','1','1','1','1','1','1','1','1','1'},
 	{'1','0','1','0','0','0','0','0','1','2','1'},
