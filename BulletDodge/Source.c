@@ -16,7 +16,6 @@ typedef struct // 총알을 표현하는 구조체
 typedef struct // 플레이어를 표현하는 구조체
 {
 	int x;
-	int y;
 }Player;
 
 Bullet bullet[WIDTH];
