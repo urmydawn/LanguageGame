@@ -123,16 +123,16 @@ void PlayerWetRain()
 }
 
 
-void main()
+/*void main()
 {
 	system("cls");
 
 	char key;
 
-	while(1)
+
 	{
 	PrintMap();
 	PlayerMove();
 
 	}
-}
+}*/
